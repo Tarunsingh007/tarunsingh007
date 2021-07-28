@@ -5,6 +5,8 @@
 
 <h4 align="center">A passionate Web App Developer skilled in NodeJS, Springboot, Microservices, React. Apart from that I've also worked on DevOps tools like Jenkins, SonarQube.</h4>
 
+<br>
+<br>
 <hr>
 
 ### GitHub Stats
