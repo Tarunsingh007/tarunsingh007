@@ -5,11 +5,9 @@
 
 <h4 align="center">A passionate Web App Developer skilled in NodeJS, Springboot, Microservices, React. Apart from that I've also worked on DevOps tools like Jenkins, SonarQube.</h4>
 
-<br>
-<br>
-<br>
-<br>
- ## GitHub Stats
+<hr>
+
+### GitHub Stats
 
 <img align="left" alt="Sachin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tarunsingh007" />
 
